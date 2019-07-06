@@ -1,0 +1,28 @@
+{
+  "name": "appointments",
+  "version": "1.0.0",
+  "description": "Appointments management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emamanic/appointments.git"
+  },
+  "keywords": [
+    "React",
+    "TDD",
+    "NodeJS",
+    "Appointments"
+  ],
+  "author": "Edgar Mamani",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/emamanic/appointments/issues"
+  },
+  "homepage": "https://github.com/emamanic/appointments#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
